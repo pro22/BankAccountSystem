@@ -1,0 +1,25 @@
+H:\2nd year, 1st term\C# Program\Home Work3\Container\bin\Debug\Container.dll
+H:\2nd year, 1st term\C# Program\Home Work3\Container\bin\Debug\Container.pdb
+H:\2nd year, 1st term\C# Program\Home Work3\Container\obj\Debug\Container.dll
+H:\2nd year, 1st term\C# Program\Home Work3\Container\obj\Debug\Container.pdb
+H:\2nd year, 1st term\C# Program\Home Work3\Container\obj\Debug\Eutility.csprojResolveAssemblyReference.cache
+D:\2,1\C# project\APL\Home Work3\Container\bin\Debug\Container.dll
+D:\2,1\C# project\APL\Home Work3\Container\bin\Debug\Container.pdb
+D:\2,1\C# project\APL\Home Work3\Container\obj\Debug\Eutility.csprojResolveAssemblyReference.cache
+D:\2,1\C# project\APL\Home Work3\Container\obj\Debug\Container.dll
+D:\2,1\C# project\APL\Home Work3\Container\obj\Debug\Container.pdb
+D:\2,1\C# project\Home Work3 sd\Container\bin\Debug\Container.dll
+D:\2,1\C# project\Home Work3 sd\Container\bin\Debug\Container.pdb
+D:\2,1\C# project\Home Work3 sd\Container\obj\Debug\Eutility.csprojResolveAssemblyReference.cache
+D:\2,1\C# project\Home Work3 sd\Container\obj\Debug\Container.dll
+D:\2,1\C# project\Home Work3 sd\Container\obj\Debug\Container.pdb
+D:\Home Work3 sd\Container\bin\Debug\Container.dll
+D:\Home Work3 sd\Container\bin\Debug\Container.pdb
+D:\Home Work3 sd\Container\obj\Debug\Eutility.csprojResolveAssemblyReference.cache
+D:\Home Work3 sd\Container\obj\Debug\Container.dll
+D:\Home Work3 sd\Container\obj\Debug\Container.pdb
+D:\2,1\C# project\APL\Home Work3 sd\Container\bin\Debug\Container.dll
+D:\2,1\C# project\APL\Home Work3 sd\Container\bin\Debug\Container.pdb
+D:\2,1\C# project\APL\Home Work3 sd\Container\obj\Debug\Eutility.csprojResolveAssemblyReference.cache
+D:\2,1\C# project\APL\Home Work3 sd\Container\obj\Debug\Container.dll
+D:\2,1\C# project\APL\Home Work3 sd\Container\obj\Debug\Container.pdb

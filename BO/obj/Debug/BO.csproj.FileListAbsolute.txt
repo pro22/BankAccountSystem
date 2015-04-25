@@ -1,0 +1,54 @@
+H:\2nd year, 1st term\C# Program\Home Work3\BO\bin\Debug\BO.dll
+H:\2nd year, 1st term\C# Program\Home Work3\BO\bin\Debug\BO.pdb
+H:\2nd year, 1st term\C# Program\Home Work3\BO\bin\Debug\Container.dll
+H:\2nd year, 1st term\C# Program\Home Work3\BO\bin\Debug\DAL.dll
+H:\2nd year, 1st term\C# Program\Home Work3\BO\bin\Debug\Container.pdb
+H:\2nd year, 1st term\C# Program\Home Work3\BO\bin\Debug\DAL.pdb
+H:\2nd year, 1st term\C# Program\Home Work3\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+H:\2nd year, 1st term\C# Program\Home Work3\BO\obj\Debug\BO.dll
+H:\2nd year, 1st term\C# Program\Home Work3\BO\obj\Debug\BO.pdb
+D:\2,1\C# project\APL\Home Work3\BO\bin\Debug\BO.dll
+D:\2,1\C# project\APL\Home Work3\BO\bin\Debug\BO.pdb
+D:\2,1\C# project\APL\Home Work3\BO\bin\Debug\Container.dll
+D:\2,1\C# project\APL\Home Work3\BO\bin\Debug\DAL.dll
+D:\2,1\C# project\APL\Home Work3\BO\bin\Debug\Container.pdb
+D:\2,1\C# project\APL\Home Work3\BO\bin\Debug\DAL.pdb
+D:\2,1\C# project\APL\Home Work3\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\2,1\C# project\APL\Home Work3\BO\obj\Debug\BO.dll
+D:\2,1\C# project\APL\Home Work3\BO\obj\Debug\BO.pdb
+D:\2,1\C# project\Home Work3 sd\BO\bin\Debug\BO.dll
+D:\2,1\C# project\Home Work3 sd\BO\bin\Debug\BO.pdb
+D:\2,1\C# project\Home Work3 sd\BO\bin\Debug\Container.dll
+D:\2,1\C# project\Home Work3 sd\BO\bin\Debug\DAL.dll
+D:\2,1\C# project\Home Work3 sd\BO\bin\Debug\Container.pdb
+D:\2,1\C# project\Home Work3 sd\BO\bin\Debug\DAL.pdb
+D:\2,1\C# project\Home Work3 sd\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\2,1\C# project\Home Work3 sd\BO\obj\Debug\BO.dll
+D:\2,1\C# project\Home Work3 sd\BO\obj\Debug\BO.pdb
+D:\2,1\C# project\APL\Home Work3 sd\BO\bin\Debug\BO.dll
+D:\2,1\C# project\APL\Home Work3 sd\BO\bin\Debug\BO.pdb
+D:\2,1\C# project\APL\Home Work3 sd\BO\bin\Debug\Container.dll
+D:\2,1\C# project\APL\Home Work3 sd\BO\bin\Debug\DAL.dll
+D:\2,1\C# project\APL\Home Work3 sd\BO\bin\Debug\Container.pdb
+D:\2,1\C# project\APL\Home Work3 sd\BO\bin\Debug\DAL.pdb
+D:\2,1\C# project\APL\Home Work3 sd\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\2,1\C# project\APL\Home Work3 sd\BO\obj\Debug\BO.dll
+D:\2,1\C# project\APL\Home Work3 sd\BO\obj\Debug\BO.pdb
+H:\Home Work3 sd\BO\bin\Debug\BO.dll
+H:\Home Work3 sd\BO\bin\Debug\BO.pdb
+H:\Home Work3 sd\BO\bin\Debug\Container.dll
+H:\Home Work3 sd\BO\bin\Debug\DAL.dll
+H:\Home Work3 sd\BO\bin\Debug\Container.pdb
+H:\Home Work3 sd\BO\bin\Debug\DAL.pdb
+H:\Home Work3 sd\BO\obj\Debug\ResolveAssemblyReference.cache
+H:\Home Work3 sd\BO\obj\Debug\BO.dll
+H:\Home Work3 sd\BO\obj\Debug\BO.pdb
+D:\Home Work3 sd\BO\bin\Debug\BO.dll
+D:\Home Work3 sd\BO\bin\Debug\BO.pdb
+D:\Home Work3 sd\BO\bin\Debug\Container.dll
+D:\Home Work3 sd\BO\bin\Debug\DAL.dll
+D:\Home Work3 sd\BO\bin\Debug\Container.pdb
+D:\Home Work3 sd\BO\bin\Debug\DAL.pdb
+D:\Home Work3 sd\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\Home Work3 sd\BO\obj\Debug\BO.dll
+D:\Home Work3 sd\BO\obj\Debug\BO.pdb
